@@ -15,3 +15,9 @@
     - https://itunes.apple.com/app/hidden-bar/id1452453066
 13. [Poetry](https://python-poetry.org/)
     - `curl -sSL https://install.python-poetry.org | sed 's/symlinks=False/symlinks=True/' | python3 -` use this command to fix the symlink issue when install on macOS
+    - If there is any warning about `urllib3`, can using `where poetry` then allocate related python to install latest package like: `'/Users/qirong.zhang/Library/Application Support/pypoetry/venv/bin/pip3' install urllib3==1.26.6`
+14. [AIDente](https://apphousekitchen.com/aldente-overview/pricing/)
+15. [browserosaurus](https://github.com/will-stone/browserosaurus/releases)
+16. [Rectangle](https://rectangleapp.com/)
+17. [BetterDisplay](https://github.com/waydabber/BetterDisplay?tab=readme-ov-file)
+18. [BetterMouse](https://better-mouse.com/)
